@@ -1,6 +1,7 @@
 # Claim Epic Freebies
 
 EpicGames Weekly Giveaways Auto Claimer
+1
 
 This is a supplementary repository for [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer)
 
